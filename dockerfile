@@ -1,4 +1,4 @@
-FROM python3.12-nodejs20
+FROM nikolaik/python-nodejs
 
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
