@@ -121,8 +121,6 @@ Escolhi utilizar o Django Rest Framework para o backend por ser um framework rob
 
 - Para facilitar a visualização dos dados, todas a principais informações dos alunos são exibidas na tela principal, evitando a necessidade de navegação entre páginas para visualizar os dados mais acessados.
 
-- 
-
 
 ## Premissas assumidas
 
