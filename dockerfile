@@ -3,8 +3,6 @@ FROM nikolaik/python-nodejs
 ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
-RUN npm install -g yarn
-
 RUN git clone https://github.com/Lusqinha/dti-digital-pratica.git
 
 WORKDIR /dti-digital-pratica
