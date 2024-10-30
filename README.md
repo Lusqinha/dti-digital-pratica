@@ -90,7 +90,7 @@ cd dti-digital-pratica
 ```bash
 docker build -t dti-digital-pratica .
 
-docker run -p 8000:8000 -p 3000:3000 dti-digital-pratica -d
+docker run -p 8000:8000 -p 3000:3000 -d dti-digital-pratica
 ```
 
 3. Acesse a aplicação no navegador:
